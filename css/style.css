@@ -1,4 +1,5 @@
 img {
+    padding: 20px;
     display: block;
     width: 500px;
     height:500px;
@@ -9,7 +10,9 @@ card {
 }
 
 h3 {
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
 }
 .col-sm-3{
     background-color:lavender;
